@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.webp" alt="StochasticSHAP Logo" width="200"/>
+</p>
+
 # Enhancing KernelSHAP with Stochastic Dimensionality Reduction
 
 ## Overview
