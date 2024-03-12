@@ -14,13 +14,15 @@ This repository presents a novel approach aimed at enhancing the interpretabilit
 Ensure you have Python 3.9 or later installed on your system. You can install all dependencies via pip or conda:
 ```bash
 pip install requirements.txt
+```
+```bash
 conda env create -f environment.yml
 ```
 
 ### Installation
 Clone this repository to your local machine using:
 ```bash
-git clone https://github.com/niyangbai/StochasticSHAP-Enhancement.git
+git clone https://github.com/niyangbai/StochasticSHAP.git
 ```
 
 ### Usage
