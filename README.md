@@ -11,17 +11,10 @@ This repository presents a novel approach aimed at enhancing the interpretabilit
 ## Getting Started
 
 ### Prerequisites
-Ensure you have Python 3.6 or later installed on your system. Dependencies include:
-
-- shap
-- numpy
-- matplotlib
-- scikit-image
-- scikit-learn
-
-You can install these dependencies via pip:
+Ensure you have Python 3.9 or later installed on your system. You can install all dependencies via pip or conda:
 ```bash
-pip install shap numpy matplotlib scikit-image scikit-learn
+pip install requirements.txt
+conda env create -f environment.yml
 ```
 
 ### Installation
@@ -37,9 +30,6 @@ python main.py
 ```
 Replace `main.py` with the script you wish to run.
 
-## Example
-Provide a simple code example or a link to a Jupyter Notebook in `/examples` demonstrating how to use your methodology on a sample dataset.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
@@ -48,4 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Appreciation for the open-source community providing tools and libraries that made this project possible.
 
 ## Contact
-For any queries or further discussion, feel free to contact us - [mailto:bainiyang@gmail.com].
+For any queries or further discussion, feel free to contact me - bainiyang@gmail.com.
