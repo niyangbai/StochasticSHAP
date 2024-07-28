@@ -2,7 +2,7 @@
   <img src="logo.webp" alt="StochasticSHAP Logo" width="200"/>
 </p>
 
-# Enhancing KernelSHAP with Stochastic Dimensionality Reduction
+# Enhancing Model Interpretability with Sparse Data
 
 ## Overview
 This repository contains the implementation of Stochastic KernelSHAP methods tailored for sparse data. The aim is to enhance the robustness and interpretability of SHAP explanations while improving computational efficiency. The methods include selecting non-zero features, applying PCA for dimensionality reduction, and grouping features.
