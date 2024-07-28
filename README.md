@@ -7,24 +7,6 @@
 ## Overview
 This repository contains the implementation of Stochastic KernelSHAP methods tailored for sparse data. The aim is to enhance the robustness and interpretability of SHAP explanations while improving computational efficiency. The methods include selecting non-zero features, applying PCA for dimensionality reduction, and grouping features.
 
-## Project Structure
-
-The structure of this repository is organized as follows to ensure easy navigation and comprehension:
-
-- `/data`: Directory for datasets used in the project. Includes raw data, processed data, and any intermediate datasets created during the analysis.
-- `/notebooks`: Jupyter notebooks for exploratory data analysis, model development, and testing are stored here.
-- `/reference`: Includes reference materials such as papers, articles, and any other documents that support the understanding of the project.
-- `/results`: Output results such as models, figures, logs, and performance metrics are saved in this folder.
-- `/scripts`: Contains reusable and standalone scripts used for various tasks like data preprocessing, model training, and result analysis.
-- `/src`: Source code of the project. 
-- `/thesis`: Draft, expose and final thesis can be found here.
-- `.gitignore`: Specifies intentionally untracked files to ignore.
-- `environment.yml`: YAML file for reproducing the conda environment.
-- `LICENSE`: The MIT License file for the project.
-- `README.md`: Markdown file with an overview of the project, instructions for installation, usage, and other important information.
-- `requirements.txt`: Lists all the Python dependencies necessary to run the project.
-
-
 ## Getting Started
 
 ### Prerequisites
