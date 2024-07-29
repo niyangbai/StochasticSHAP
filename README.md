@@ -67,14 +67,17 @@ efficient-shap-sparse-data/
 │       ├── __init__.py
 │       ├── test_shap.py
 │       └── test_plot.py
-├── notebooks/
-│   ├── example_usage_1.ipynb
-│   └── example_usage_2.ipynb
-└── docs/
-    ├── index.md
-    ├── installation.md
-    ├── usage.md
-    └── api_reference.md
+├── reference/
+│   ├── reference_1.pdf
+│   ├── reference_2.pdf
+│   └── ...
+├── thesis/
+│   ├── expose.pdf
+│   └── working_thesis.pdf
+└── notebooks/
+    ├── example_usage_1.ipynb
+    └── example_usage_2.ipynb
+
 ```
 
 ## Contributing
