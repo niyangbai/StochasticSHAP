@@ -23,7 +23,7 @@ This project aims to enhance the robustness and efficiency of KernelSHAP explana
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/efficient-shap-sparse-data.git
+    git clone https://github.com/niyangbai/SparseSHAP.git
     cd efficient-shap-sparse-data
     ```
 
@@ -94,4 +94,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact
 
 For any questions or issues, please contact [Niyang Bai](mailto:niyang.bai@fau.de).
-```
